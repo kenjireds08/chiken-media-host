@@ -1,0 +1,13 @@
+# Claude Code 関連（公開リポジトリでのメタログ漏洩防止）
+.claude/
+.claude/worktrees/
+.claude/plans/
+
+# 環境変数・認証情報
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
